@@ -6,4 +6,4 @@ El programa elegirá una palabra al azar de una lista ya establecida, el jugador
 ***
 El programa está desarrollado con Python 3.9 y choice (de su librería random)
 ***
-Requisitos para ejecutar: -Instalar Python 3.9 o superior -Instalar Visual Studio Code -Descargar programa y ejecutar el Visual Studio Code
+Requisitos para ejecutar: -Instalar Python 3.9 o superior -Instalar Visual Studio Code -Descargar programa y ejecutar en Visual Studio Code
